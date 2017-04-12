@@ -2,6 +2,7 @@
   "name": "my-light-theme-syntax",
   "theme": "syntax",
   "version": "1.2.1",
+  "version": "1.7.1",
   "description": "Modified Atom One light syntax theme",
   "keywords": [
     "light",
